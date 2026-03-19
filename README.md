@@ -1,2 +1,4 @@
-# Playwright_Spring
-Framework have been build using Playwright SpringBoot and Java
+# Playwright_Spring_Framwork
+
+-Framework have been build using Playwright SpringBoot and Java with TestNG and Cucumber Embedded
+-Future Plans is to add docker and AI- Self Healing Locator
