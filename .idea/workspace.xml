@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="310c7283-2556-4e81-b38c-0ded58b1a94c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="310c7283-2556-4e81-b38c-0ded58b1a94c" name="Changes" comment="Ignored Target folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +51,20 @@
       <option name="presentableId" value="Default" />
       <updated>1773930858412</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ignored Target folder">
+      <option name="closed" value="true" />
+      <created>1773931343103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773931343103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ignored Target folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignored Target folder" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
